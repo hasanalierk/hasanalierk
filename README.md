@@ -8,7 +8,7 @@
 
 ### Reach out to me
 
-[<img  width="22" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
+[<img   width="30" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin]
 
 
 
@@ -26,3 +26,31 @@
 <img align="left" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" width="25" height="25" />
 
 [linkedin]:  https://www.linkedin.com/in/hasan-ali-erk-681836257/
+
+<br />
+
+<!--<div  align="center"> <img src="https://raw.githubusercontent.com/scriptex/github-contributions-snake/snake/github-contribution-grid-snake.svg" /></div>-->
+<h2 align="center">My Projects</h2>
+
+###
+
+Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
+[Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Vanilla JS, PureCSS |![todo](https://media.giphy.com/media/m8sgcPLTzWZ1YLPFKA/giphy.gif)
+
+
+
+<br>
+
+<h2 align="center">💡Most Used Language</h2>
+<div  align="center">
+<br/>
+<img
+     src="https://github-readme-stats.vercel.app/api?username=hasanalierk&theme=blue-green"
+     alt=""
+     /> </br></br></br>
+<img
+     src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanalierk&theme=blue-green"
+     alt=""
+     /> <br/>
+</div>
