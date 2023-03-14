@@ -38,6 +38,8 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 :-------------------------|-------------------------|-------------------------
 [Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Vanilla JS, PureCSS |![todo](https://media.giphy.com/media/m8sgcPLTzWZ1YLPFKA/giphy.gif)
 
+[Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Hasi JS, PureCSS |![todo](https://media.giphy.com/media/m8sgcPLTzWZ1YLPFKA/giphy.gif)
+
 
 
 <br>
