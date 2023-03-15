@@ -41,7 +41,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla Js Expense Tracking](https://github.com/hasanalierk/Gider-Takip) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Vanilla JS, Bootstrap |![todo](https://user-images.githubusercontent.com/118939050/225411975-5ce5bee7-573c-4585-938c-640e2b6908a2.gif)
+[Vanilla Js Expense Tracking](https://github.com/hasanalierk/Gider-Takip) <h3>[Repo](https://github.com/hasanalierk/Gider-Takip)</h3> | Vanilla JS, Bootstrap |![todo](https://user-images.githubusercontent.com/118939050/225411975-5ce5bee7-573c-4585-938c-640e2b6908a2.gif)
 
 
 
