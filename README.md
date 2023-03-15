@@ -36,7 +36,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Vanilla JS, PureCSS |![todo](https://media.giphy.com/media/m8sgcPLTzWZ1YLPFKA/giphy.gif)
+[Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Vanilla JS, PureCSS |![todo](https://user-images.githubusercontent.com/118939050/225414631-9236ac7e-43b8-471a-aa46-27e6388fde5a.gif)
 
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
@@ -59,4 +59,5 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+
 
