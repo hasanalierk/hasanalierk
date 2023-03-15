@@ -59,4 +59,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
-![ezgif com-video-to-gif](https://user-images.githubusercontent.com/118939050/225411975-5ce5bee7-573c-4585-938c-640e2b6908a2.gif)
+
