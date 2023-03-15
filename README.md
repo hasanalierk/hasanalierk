@@ -65,4 +65,4 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 </div>
 
 
-![ezgif com-video-to-gif (3)](https://user-images.githubusercontent.com/118939050/225416804-ff9ea42c-8ef8-4c67-9986-331623c087e3.gif)
+
