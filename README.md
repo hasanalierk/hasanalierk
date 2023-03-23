@@ -60,20 +60,20 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[ReactJS Task-Tracker](https://task-tracker-hasanalierk.netlify.app/) <h3>[Repo](https://github.com/hasanalierk/task-tracker)</h3> | ReactJS, PureCSS, MockAPI, Local Storage |![todo](https://user-images.githubusercontent.com/118939050/225419257-fc287166-bdbd-4b53-97a5-50d005a549a2.gif)
+[ReactJS Task-Tracker](https://task-tracker-hasanalierk.netlify.app/) <h4>[Repo](https://github.com/hasanalierk/task-tracker)</h4> | ReactJS, PureCSS, MockAPI, Local Storage |![todo](https://user-images.githubusercontent.com/118939050/225419257-fc287166-bdbd-4b53-97a5-50d005a549a2.gif)
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h3>[Repo](https://github.com/hasanalierk/Weather-App)</h3> | Vanilla JS, PureCSS, RestAPI |![todo](https://user-images.githubusercontent.com/118939050/225414631-9236ac7e-43b8-471a-aa46-27e6388fde5a.gif)
+[Vanilla Js Weather App](https://hasanalierk.github.io/Weather-App/) <h4>[Repo](https://github.com/hasanalierk/Weather-App)</h4> | Vanilla JS, PureCSS, RestAPI |![todo](https://user-images.githubusercontent.com/118939050/225414631-9236ac7e-43b8-471a-aa46-27e6388fde5a.gif)
 
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla Js Expense Tracking](https://hasanalierk.github.io/Gider-Takip/) <h3>[Repo](https://github.com/hasanalierk/Gider-Takip)</h3> | Vanilla JS, Bootstrap |![todo](https://user-images.githubusercontent.com/118939050/225411975-5ce5bee7-573c-4585-938c-640e2b6908a2.gif)
+[Vanilla Js Expense Tracking](https://hasanalierk.github.io/Gider-Takip/) <h4>[Repo](https://github.com/hasanalierk/Gider-Takip)</h4> | Vanilla JS, Bootstrap |![todo](https://user-images.githubusercontent.com/118939050/225411975-5ce5bee7-573c-4585-938c-640e2b6908a2.gif)
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[Vanilla Js Pokemon Project](https://hasanalierk.github.io/Pokemon-Project/) <h3>[Repo](https://github.com/hasanalierk/Pokemon-Project)</h3> | Vanilla JS, PureCSS, PokeAPI |![todo](https://user-images.githubusercontent.com/118939050/225416804-ff9ea42c-8ef8-4c67-9986-331623c087e3.gif)
+[Vanilla Js Pokemon Project](https://hasanalierk.github.io/Pokemon-Project/) <h4>[Repo](https://github.com/hasanalierk/Pokemon-Project)</h4> | Vanilla JS, PureCSS, PokeAPI |![todo](https://user-images.githubusercontent.com/118939050/225416804-ff9ea42c-8ef8-4c67-9986-331623c087e3.gif)
 
 
 
