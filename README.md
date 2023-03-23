@@ -1,8 +1,9 @@
-### Hi there, I'm Hasan Ali 👋
+###   🙇‍♂️👋🏻 Hi there, I am Hasan Ali
 
 <img src="https://media.giphy.com/media/3oEjHNdJf6ilveYXIc/giphy.gif" align="right" width="400" height="250">
 
 ## FullStack Developer
+<font color="pink"> 🧐 Hello everyone, my name is Hasan Ali. My interest in becoming a developer started in August 2022. To transition into this field that I feel connected to, I made a career change.🚀 </font>
 
 <font color="red"> If opportunity doesn’t knock, buiId a door. :muscle: </font>
 
