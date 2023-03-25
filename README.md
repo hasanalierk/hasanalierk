@@ -57,6 +57,10 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+[React Movie List](https://movie-list-hasanalierk.netlify.app/) <h4>[Repo](https://github.com/hasanalierk/movie-list)</h4> | React JS, Tailwind CSS, TMDB API , Firebase |![movie](https://user-images.githubusercontent.com/118939050/227712524-b29658a8-bca3-4e8f-ab23-289fb963a51f.gif)
+
+Project Demo       |Libraries and Technologies I use     |Project Preview   
+:-------------------------|-------------------------|-------------------------
 [ReactJS Crypto-App](https://crypto-app-hasanalierk.netlify.app/) <h4>[Repo](https://github.com/hasanalierk/crypto-app-react)</h4> | ReactJS, PureCSS, CryptoAPI|![todo](https://user-images.githubusercontent.com/118939050/225421097-7930d2c0-914e-4afe-92a8-19d23ec526c7.gif)
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
@@ -82,6 +86,9 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
 
 
 
+
+
+
 <br>
 
 <h2 align="center">💡Most Used Language</h2>
@@ -96,6 +103,7 @@ Project Demo       |Libraries and Technologies I use     |Project Preview
      alt=""
      /> <br/>
 </div>
+
 
 
 
